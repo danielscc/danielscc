@@ -1,6 +1,6 @@
 ## About me
 
-Hey there! I'm Daniel Cruz, web developer from Monterrey, México. Proud graduate with a Bachelor's degree in I.T. 🐘 from <a href="https://www.uanl.mx/universidad-autonoma-de-nuevo-leon/">UANL</a>. Data Analyst trying to get into Backend Development.
+Hey there! I'm Daniel Cruz, web developer from Monterrey, México. Proud graduate with a Bachelor's degree in I.T. :elephant: from <a href="https://www.uanl.mx/universidad-autonoma-de-nuevo-leon/">UANL</a>. Data Analyst trying to get into Backend Development.
 
 ### Contact
 
