@@ -16,4 +16,4 @@ Hey there! I'm Daniel Cruz, web developer from Monterrey, México. Proud graduat
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-[![Daniel Cruz Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=danielscc&hide=jupyter%20notebook&theme=react&show_icons=true)](https://github.com/danielscc)
+[![Daniel Cruz Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=danielscc&hide=jupyter%20notebook&theme=dark&show_icons=true)](https://github.com/danielscc)
