@@ -24,7 +24,6 @@ Hey there! ✌ I'm Daniel Cruz, Web Developer from Monterrey, México. Graduate 
 
 ### Certificates
 
-Check out some of my certificates: https://github.com/danielscc/certificates
-
+Check out some of my <a href="https://github.com/danielscc/certificates">certificates</a>
 
 
