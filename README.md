@@ -5,6 +5,7 @@ Hey there! ✌ I'm Daniel Cruz, Web Developer from Monterrey, México. Graduate 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielscc) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:daniel.cruzcts@gmail.com)
 [![GitHub danielscc](https://img.shields.io/github/followers/danielscc?label=follow&style=social)](https://github.com/danielscc)
+<img height="50" src="https://wiki.supercombo.gg/images/8/8d/%28kent%29.gif" style="transform: rotateY(180deg);">
 
 
 #### Tech Stack
