@@ -2,23 +2,10 @@
 Hey there! ✌ I'm Daniel Cruz, Web Developer from Monterrey, México. Graduate with a bachelor's degree in I.T. :elephant: from <a href="https://www.uanl.mx/universidad-autonoma-de-nuevo-leon/">UANL</a>
 #### Contact
 
-<div style="display: flex; align-items: center; gap: 0.6em">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielscc) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:daniel.cruzcts@gmail.com)
+[![GitHub danielscc](https://img.shields.io/github/followers/danielscc?label=follow&style=social)](https://github.com/danielscc)
 
-  <a href="https://linkedin.com/in/danielscc">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <a href="mailto:daniel.cruzcts@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  
-  <a href="https://github.com/danielscc">
-    <img src="https://img.shields.io/github/followers/danielscc?label=follow&style=social" alt="GitHub">
-  </a>
-  
-  <img height="50" src="https://wiki.supercombo.gg/images/8/8d/%28kent%29.gif" style="transform: rotateY(180deg);">
-
-</div>
 
 #### Tech Stack
 
