@@ -19,7 +19,6 @@ Hey there! ✌ I'm Daniel Cruz, Web Developer from Monterrey, México. Graduate 
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"> 
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png">
     <img height="50" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/0bafca8be51a7290244f4219e42b4a530a5dfefb/public/icons/postgresql/postgresql.svg">
-    <img height="50" src="https://raw.githubusercontent.com/onemarc/tech-icons/e0e9d27d9e004526fc715d77210b6d0046a9e4b5/icons/docker.svg">
 </div>
 
 ## Certificates
