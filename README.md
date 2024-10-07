@@ -1,11 +1,9 @@
 # About me
-Hey there! ✌ I'm Daniel Cruz, Web Developer from Monterrey, México. Graduate with a bachelor's degree in I.T. :elephant: from <a href="https://www.uanl.mx/universidad-autonoma-de-nuevo-leon/">UANL</a>
+Hey I'm Daniel Cruz, Web Developer from Monterrey, México. Bachelor's degree graduate in I.T. from <a href="https://www.uanl.mx/universidad-autonoma-de-nuevo-leon/">UANL</a> :elephant:
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielscc) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:daniel.cruzcts@gmail.com)
-[![GitHub danielscc](https://img.shields.io/github/followers/danielscc?label=follow&style=social)](https://github.com/danielscc)
-
 
 ## Tech Stack
 
@@ -24,5 +22,3 @@ Hey there! ✌ I'm Daniel Cruz, Web Developer from Monterrey, México. Graduate 
 ## Certificates
 
 Check out some of my <a href="https://github.com/danielscc/certificates">certificates</a>
-
-
