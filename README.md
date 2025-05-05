@@ -1,5 +1,5 @@
 # About me
-Hey I'm Daniel Cruz, Web Developer from Monterrey, México. Bachelor's degree graduate in I.T. from <a href="https://www.uanl.mx/universidad-autonoma-de-nuevo-leon/">UANL</a> :elephant:
+Web Developer from Monterrey, México. I.T. Graduate from <a href="https://www.uanl.mx/universidad-autonoma-de-nuevo-leon/">UANL</a> :elephant:
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielscc) 
