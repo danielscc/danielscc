@@ -5,7 +5,7 @@ Hey I'm Daniel Cruz, Web Developer from Monterrey, México. Bachelor's degree gr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielscc) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:daniel.cruzcts@gmail.com)
 
-## Tech Stack
+## Tools
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
     <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> 
