@@ -1,5 +1,8 @@
 # About me
-Software Engineer from Monterrey, México. Proudly I.T. Graduate from <a href="https://www.uanl.mx/en/uanl-at-a-glance/">UANL</a> :elephant:
+Hey! I'm Daniel, Software Engineer from Monterrey, México. Proud I.T. Graduate from <a href="https://www.uanl.mx/en/uanl-at-a-glance/">U.A.N.L :elephant:</a>. 
+
+I like weightlifting and running, reading some <a href="https://www.goodreads.com/review/list/176531508-daniel?shelf=read">books</a>, fighting games and messing around with linux, currently with arch.
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielscc) 
