@@ -1,7 +1,5 @@
 # About me
-I'm Daniel, Software Developer from Monterrey, México. Graduate from <a href="https://www.uanl.mx/en/uanl-at-a-glance/">U.A.N.L</a>. 
-
-I like weightlifting, running, <a href="https://www.goodreads.com/review/list/176531508-daniel?shelf=read">books</a> and linux.
+Hey, I'm Daniel! A software dev based in Monterrey, México. Studied at <a href="https://www.uanl.mx/en/uanl-at-a-glance/">U.A.N.L</a>. Into weightlifting, books, and linux.
 
 ### Contact
 
